@@ -2,7 +2,7 @@ version: 2
 
 models:
   - name: chronic_conditions_summary
-    description: "Summarizes the prevalence of chronic conditions among patients."
+    description: "Summarizes the prevalence of chronic conditions among patients..."
     columns:
       - name: diagnosis_code
         tests:
