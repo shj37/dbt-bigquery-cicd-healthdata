@@ -1,6 +1,6 @@
 # Building an End-to-End Data Pipeline for Healthcare Data with BigQuery, dbt, and GitHub CI/CD
 
-![project overview](https://cdn-images-1.medium.com/max/1250/1*GwSRaTRdOwOAbR5Z7zIKCg.jpeg)
+![project overview](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Wi-wU1NSj3mgAo9klw_myg.jpeg)
 
 ## Summary
 
