@@ -4,5 +4,5 @@
 
 ## Summary
 
-In this comprehensive guide, we explore the process of constructing a robust, end-to-end data pipeline tailored for healthcare data. Leveraging Google Cloud Platform (GCP), BigQuery, dbt (data build tool), and GitHub Actions for CI/CD, this pipeline ingests, transforms, and deploys healthcare data efficiently. Whether you're a data engineer or analyst, this step-by-step tutorial will equip you with the skills to create a scalable and automated data solution.
+In this comprehensive guide, we explore the process of constructing a robust, end-to-end data pipeline tailored for healthcare data. Leveraging Google Cloud Platform (**GCP**), **BigQuery**, **dbt** (data build tool), and **GitHub Actions** for **CI/CD**, this pipeline ingests, transforms, and deploys healthcare data efficiently. Whether you're a data engineer or analyst, this step-by-step tutorial will equip you with the skills to create a scalable and automated data solution.
 
