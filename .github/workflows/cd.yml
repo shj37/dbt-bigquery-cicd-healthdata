@@ -81,4 +81,4 @@ jobs:
       - name: Deploy to Production
         run: |
           source dbt_bigquery_venv/bin/activate
-          dbt run --profiles-dir /home/runner/.dbt --target prod
+          dbt test --project-dir dbt_bigquery_healthdata --profiles-dir /home/runner/.dbt --target prod

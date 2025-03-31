@@ -81,4 +81,4 @@ jobs:
       - name: Run dbt Tests
         run: |
           source dbt_bigquery_venv/bin/activate
-          dbt test --profiles-dir /home/runner/.dbt --target dev
+          dbt test --project-dir dbt_bigquery_healthdata --profiles-dir /home/runner/.dbt --target dev
